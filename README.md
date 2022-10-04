@@ -7,7 +7,7 @@ I am Software architect, Blockchain and Distributed systems developer and techni
 - ☀️ Building complex software solutions in Go and Node using tons of database technologies.
 - ✍️ Writing tech blog posts over [my personal blog](https://shaikhshahid.com/).
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shaikh-shahid&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=shaikh-shahid&theme=highcontrast&show_icons=true&count_private=true&PAT=1)
 
 <hr>
 <p align="center">
