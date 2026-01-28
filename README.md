@@ -2,7 +2,7 @@
 
 <!-- Badges -->
 [![GitHub followers](https://img.shields.io/github/followers/shaikh-shahid?label=Follow&style=social)](https://github.com/shaikh-shahid)
-[![GitHub stars](https://img.shields.io/github/stars/shaikh-shahid?style=social)](https://github.com/shaikh-shahid/shaikh-shahid)
+![Total Stars](https://img.shields.io/badge/Total%20Stars-515-blue)
 [![X](https://img.shields.io/badge/twitter-@shahidontech-1DA1F2?style=social&logo=twitter)](https://x.com/shahidontech)
 
 # Hey — it's Shahid 👋
