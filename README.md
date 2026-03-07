@@ -30,7 +30,8 @@ I’m a Principal Software Architect, Blockchain & Distributed Systems developer
 
 ## Projects
 
-- [Redistill](https://github.com/redistill-io/redistill) — Extremely fast Redis-compatible KV database 🔥  
+- [Redistill](https://github.com/redistill-io/redistill) — Extremely fast Redis-compatible KV database 🔥
+- [MemX](https://github.com/shaikh-shahid/memx) — Local first AI Memory 🧠  
 - [Atlas](https://github.com/shaikh-shahid/Atlas) — Open source AI answer engine 🤖  
 - [Mumbai AQI](https://github.com/shaikh-shahid/mumbaiaqi) — Community-driven AQI tracker & recommendation platform 🌫️📈  
 - [Decentralised Email](https://github.com/shaikh-shahid/decentralized-email) — Peer-to-peer email platform ✉️🔗  
